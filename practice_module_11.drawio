@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Страница-1" id="K6KeaTpyc1FNL7TXwKf4">
-    <mxGraphModel dx="2194" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,6 +380,12 @@
         </mxCell>
         <mxCell id="ZwyWpDsIlbZlYxfsumLp-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
           <mxGeometry height="30" width="60" x="650" y="944" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwyWpDsIlbZlYxfsumLp-73" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=light-dark(#FFF9B2,#FFFF66);strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=light-dark(#FFF2A1,#FFFF33);shadow=1;size=20;pointerEvents=1;labelBackgroundColor=none;labelBorderColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="140" x="570" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwyWpDsIlbZlYxfsumLp-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: transparent;&quot;&gt;&lt;i&gt;1 -&amp;nbsp;Ровно один.&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;i&gt;0..1 -&amp;nbsp;Ноль или один.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;i&gt;&lt;span data-start=&quot;1621&quot; data-end=&quot;1628&quot;&gt;0..&lt;/span&gt;* -&amp;nbsp;Ноль и сколько угодно&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;i&gt;&lt;span data-start=&quot;1751&quot; data-end=&quot;1758&quot; style=&quot;&quot;&gt;1..&lt;/span&gt;* -&amp;nbsp;Один и сколько угодно&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="580" y="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
