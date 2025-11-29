@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Страница-1" id="K6KeaTpyc1FNL7TXwKf4">
-    <mxGraphModel dx="1678" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2194" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,15 @@
         <mxCell id="P3fQauTzM9E_xzzDo9mo-29" parent="P3fQauTzM9E_xzzDo9mo-24" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ViewGrades(): array" vertex="1">
           <mxGeometry height="26" width="180" y="112" as="geometry" />
         </mxCell>
+        <mxCell id="ZwyWpDsIlbZlYxfsumLp-47" edge="1" parent="1" source="P3fQauTzM9E_xzzDo9mo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=diamondThin;endFill=0;" target="P3fQauTzM9E_xzzDo9mo-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="1079" />
+              <mxPoint x="30" y="660" />
+              <mxPoint x="120" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P3fQauTzM9E_xzzDo9mo-31" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Teacher" vertex="1">
           <mxGeometry height="138" width="160" x="100" y="1010" as="geometry" />
         </mxCell>
@@ -162,12 +171,12 @@
         <mxCell id="ZwyWpDsIlbZlYxfsumLp-39" edge="1" parent="1" source="P3fQauTzM9E_xzzDo9mo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;endFill=0;" target="P3fQauTzM9E_xzzDo9mo-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="630" />
+              <mxPoint x="690" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P3fQauTzM9E_xzzDo9mo-52" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Exam" vertex="1">
-          <mxGeometry height="164" width="160" x="540" y="780" as="geometry" />
+          <mxGeometry height="164" width="160" x="610" y="780" as="geometry" />
         </mxCell>
         <mxCell id="P3fQauTzM9E_xzzDo9mo-53" parent="P3fQauTzM9E_xzzDo9mo-52" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+course: Course" vertex="1">
           <mxGeometry height="26" width="160" y="26" as="geometry" />
